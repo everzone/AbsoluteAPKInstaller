@@ -15,6 +15,10 @@
 > - Execute adb command below
 >   ```
 >   adb shell dpm set-device-owner net.everzone.AbsoluteAPKInstaller/.DeviceAdminReceiver
+>   ---
+>   (result)
+>   Success: Device owner set to package ComponentInfo{net.everzone.AbsoluteAPKInstaller/net.everzone.AbsoluteAPKInstaller.DeviceAdminReceiver}
+>   Active admin set to component {net.everzone.AbsoluteAPKInstaller/net.everzone.AbsoluteAPKInstaller.DeviceAdminReceiver}
 >   ```
 > - Follow instructions in Quest2
 > - After reboot once, Enable Developer Mode again
