@@ -25,6 +25,4 @@
 
 ## Using
 
-<video controls>
-    <source src="https://user-images.githubusercontent.com/59465158/173155304-e2f752f1-ed98-468e-a86c-2c2f85a21e1b.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/59465158/173155304-e2f752f1-ed98-468e-a86c-2c2f85a21e1b.mp4
